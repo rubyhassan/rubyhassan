@@ -1,11 +1,6 @@
 # hi! i'm ruby.
 
--
-
---
-
----
-
+/
 
 ## i just moved to gilbert, az 🏜️ <br> to get my $${\\color{orange}{ms}}$$ in $${\\color{orange}{user \\ experience}}$$ <br> from $${\\color{maroon}{arizona \\ state \\ university}}$$ 🎓
 
