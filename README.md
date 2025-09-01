@@ -7,36 +7,16 @@
 having always lived in tropical/humid climates, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
 
-
-today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=flat-square" height="14" style="vertical-align:middle"> / 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempC&label=&suffix=%C2%B0C&color=000000&style=flat-square" height="14" style="vertical-align:middle"> 🥵
-
-
-
-
-today, we had a high of  ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=for-the-badge) 😨 <br> 
-and a low of ![Low F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&style=for-the-badge) 😳 <br>
-
-
----
-
-
 today, we had a high of  ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat) 😨 <br> 
 and a low of ![Low F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat) 😳 <br>
 
-
 ---
 
+today, we had a high of  
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat" height="40"> 😨 <br>  
 
-today, we had a high of ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=flat-square) 😨 <br> 
-and a low of ![Low F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&style=flat-square) 😳 <br>
-
-
----
-
-today, we had a high of ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=flat-square) / ![High C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempC&label=&suffix=%C2%B0C&color=000000&style=flat-square) 😨 <br> 
-and a low of ![Low F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&style=flat-square) / ![Low C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempC&label=&suffix=%C2%B0C&color=000000&style=flat-square) 😳 <br>
-
+and a low of  
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat" height="40"> 😳 <br>
 
 
 ---
