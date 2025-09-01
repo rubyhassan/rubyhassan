@@ -10,8 +10,6 @@ having always lived in tropical/humid climates, <br> i really should have paid c
 
 today, we had a high of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="56" alt="High F"> 😨 <br>
-
-
 and a low of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="56" alt="Low F"> 😳 <br>
 
@@ -19,8 +17,6 @@ and a low of
 
 today, we had a high of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="48" alt="High F"> 😨 <br>
-
-
 and a low of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="48" alt="Low F"> 😳 <br>
 
@@ -28,8 +24,6 @@ and a low of
 
 today, we had a high of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="36" alt="High F"> 😨 <br>
-
-
 and a low of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="36" alt="Low F"> 😳 <br>
 
@@ -37,8 +31,6 @@ and a low of
 
 today, we had a high of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="24" alt="High F"> 😨 <br>
-
-
 and a low of
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="24" alt="Low F"> 😳 <br>
 
