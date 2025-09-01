@@ -4,7 +4,6 @@
 
 ![](https://wttr.in/Gilbert)
 
-![](https://wttr.in/Gilbert.png?m)
 
 
 ---
