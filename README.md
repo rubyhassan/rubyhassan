@@ -7,8 +7,13 @@
 
 ---
 
+**weather report (gilbert):** 
+![C](https://wttr.in/Gilbert.png?format=%c+%t) / ![F](https://wttr.in/Gilbert.png?format=%t&u)
 
+---
 
+**weather report (gilbert):**  
+![C](https://wttr.in/Gilbert.png?format=%c+%t) / ![F](https://wttr.in/Gilbert.png?format=%t&u)
 
 
 ---
