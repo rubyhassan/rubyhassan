@@ -3,11 +3,7 @@
 ## i just moved to gilbert, az 🏜️ <br> for my $${\\color{maroon}{ms}}$$ in $${\\color{maroon}{user \\ experience}}$$ <br> from *arizona state university* 🎓
 
 having always lived in tropical, humid settings, i really should have paid closer attention when *everyone* tried to warn me about the weather.. <br>
-**right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
-
-
-```text
-curl wttr.in/Gilbert?format=3
+**right now** it's <space> ![](https://wttr.in/Gilbert?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
 
 
 ---
