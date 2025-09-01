@@ -26,6 +26,7 @@ today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=
 
 ---
 
+
 links to LinkedIn, CodePen, 
 and an intro/bio about the student
 their education/goals
