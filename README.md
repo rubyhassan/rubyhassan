@@ -2,7 +2,7 @@
 
 ## i just moved to gilbert, az 🏜️ <br> for my $${\\color{yellow}{ms}}$$ in $${\\color{yellow}{user \\ experience}}$$ <br> from *arizona state university* 🎓
 
-![Gilbert Weather](https://wttr.in/Gilbert.png?u&1n&lang=en)
+![](https://wttr.in/Gilbert.png?u&1n&lang=en)
 
 
 ---
