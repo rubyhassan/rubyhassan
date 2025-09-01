@@ -1,6 +1,8 @@
 # hi! i'm ruby. 
 
+
 ## i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️ <br> for my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ <br> from $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
+
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
