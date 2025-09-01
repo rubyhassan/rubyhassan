@@ -1,12 +1,10 @@
 ## hi! i'm ruby.
 
-# i just moved to **sunny** arizona 🏜️ 
+# i just moved to **sunny** Gilbert 🏜️ for my **MS in UX** from *Arizona State University* 
 
-![Weather](https://img.shields.io/badge/dynamic/json?color=orange&label=Gilbert%20Weather&query=main.temp&suffix=%20°C&url=https%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fweather%3Fq%3DGilbert%26appid%3DYOUR_API_KEY%26units%3Dmetric)
+![](https://wttr.in/Gilbert)
 
-![Gilbert, AZ Weather](https://wttr.in/Gilbert?format=%C+%t)
-
-![Weather](https://weather-badge-api.vercel.app/api/static?city=Gilbert&country=US&unit=metric)
+![](https://wttr.in/Gilbert.png?m)
 
 
 ---
