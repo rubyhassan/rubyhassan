@@ -8,6 +8,8 @@
 
 ## i just moved to $${\color{#FFC627} gilbert}$$, $${\color{#FFC627} az}$$ 🏜️ <br> to get my $${\color{yellow} ms}$$ in $${\color{yellow} user \\ experience}$$ <br> from $${\color{maroon} arizona \\ state \\ university}$$ 🎓 <br>
 
+## i just moved to $${\color{#FFC627} gilbert}$$, $${\color{#FFC627} az}$$ 🏜️ <br> to get my $${\color{orange} ms}$$ in $${\color{orange} user \\ experience}$$ <br> from $${\color{#8C1D40} arizona \\ state \\ university}$$ 🎓 <br>
+
 
 ---
 
