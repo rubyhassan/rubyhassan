@@ -4,7 +4,7 @@ V1
 
 # hi! i'm ruby 🌸
 
-## about  
+## about..
 
 ### i recently moved to 📍 $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$  🏜️ to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ 👩‍💻 at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
 
@@ -18,7 +18,7 @@ The weather we had today: ![High](https://img.shields.io/badge/dynamic/json?url=
 - 💻 skilled in: Figma, Adobe CC, GitHub, UX writing, prototyping  
 - 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
 
-## connect! 
+## connect ~
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
 [![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-blue?style=flat&logo=safari)](your-link-here)  
