@@ -16,13 +16,6 @@ having always lived in tropical, humid settings, <br> i really should have paid 
 
 ---
 
-*today, i got hit with**
-
-![](https://wttr.in/Gilbert.png?format=H:+%H°F,+L:+%L°F)  
-![](https://wttr.in/Gilbert.png?format=H:+%HC°C,+L:+%LC°C)
-
----
-
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
 
 
