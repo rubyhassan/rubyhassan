@@ -19,10 +19,10 @@ having always lived in tropical + humid climates, i probably should’ve listene
 - 💻 skilled in: Figma, Adobe CC, GitHub, UX writing, prototyping  
 - 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
 
-## connect ~
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat&logo=linkedin)](your-link-here)  
-[![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat&logo=codepen)](your-link-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat&logo=safari)](your-link-here)  
+## connect
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat&logo=linkedin)](your-link-here)  
+🔗 [![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat&logo=codepen)](your-link-here)  
+🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat&logo=internet)](your-link-here)  
 
 ---
 
