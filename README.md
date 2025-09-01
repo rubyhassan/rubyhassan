@@ -7,7 +7,7 @@
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
 
-![](https://wttr.in/Gilbert?format=%x&u) F
+![](https://wttr.in/Gilbert?format=%h&u) F
 
 
 ---
