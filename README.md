@@ -8,4 +8,39 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 ---
 
-![](https://wttr.in/gilbert?format=1)
+![Weather](https://wttr.in/Gilbert?format=+Today:+H%t°+L%t°)
+
+![Gilbert weather](https://wttr.in/Gilbert?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
+
+![Gilbert weather](https://wttr.in/Gilbert?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
+![Gilbert weather](https://wttr.in/Gilbert?format=🌡️+Today:+High+%M°C+/+Low+%m°C&m)
+
+
+
+
+---
+
+*today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%t) *and a low of* ![](https://wttr.in/Gilbert.png?format=%t&u) *(-)it's always a wild difference here in the desert.*
+
+
+---
+
+**right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
+
+---
+
+links to LinkedIn, CodePen, 
+an image or widget
+and an intro/bio about the student
+their education/goals
+hobbies, 
+and technical skills. 
+
+Links function and images/widget display properly. 
+Images are appropriate.
+
+
+---
+
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
+
