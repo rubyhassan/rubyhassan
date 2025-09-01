@@ -6,6 +6,19 @@
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
+1
+
+![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=flat)
+
+2
+
+![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=for-the-badge)
+
+3
+
+![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat)
+
+
 
 
 today, we had a high of ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=flat-square) / ![High C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempC&label=&suffix=%C2%B0C&color=000000&style=flat-square) 😨 <br> 
