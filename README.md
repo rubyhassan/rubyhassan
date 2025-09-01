@@ -9,9 +9,6 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 # Temp Display Styles (High F only demo)
 
 
-
-
-
 today, we had a high of ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&style=for-the-badge) 😨 <br> 
 
 ---
