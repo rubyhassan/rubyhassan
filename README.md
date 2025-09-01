@@ -2,8 +2,7 @@
 
 # i just moved to **sunny** Gilbert 🏜️ for my **MS in UX** from *Arizona State University* 
 
-![](https://wttr.in/Gilbert)
-
+![](https://wttr.in/Gilbert.png?m)
 
 
 ---
