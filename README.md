@@ -8,7 +8,8 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 ---
 
-![Weather in Chicago](https://wttr.in/Chicago.png)
+today, we had a high of ![](https://wttr.in/Gilbert.png?format=%h°F&u)  
+and a low of ![](https://wttr.in/Gilbert.png?format=%l°F&u) — it’s always a wild difference here in the desert.
 
 
 
