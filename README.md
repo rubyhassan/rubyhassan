@@ -5,13 +5,19 @@
 
 ## i just moved to gilbert, az 🏜️ <br> to get my $${\\color{orange}{ms}}$$ in $${\\color{orange}{user \\ experience}}$$ <br> from $${\\color{#<8C1D40>}{arizona \\ state \\ university}}$$ 🎓 <br>
 
-{#<hex_code>}
 
 
-
+---
 
 having always lived in tropical, humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 **right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣 <br>
+
+---
+
+**Weather in Gilbert, AZ**
+
+![Fahrenheit](https://wttr.in/Gilbert.png?format=H:+%H°F,+L:+%L°F)  
+![Celsius](https://wttr.in/Gilbert.png?format=H:+%HC°C,+L:+%LC°C)
 
 ---
 
