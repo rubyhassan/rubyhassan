@@ -10,9 +10,7 @@ V1
 
 having always lived in tropical + humid climates, i probably should’ve listened when *everyone* tried to warn me about the desert heat..
 
-today we saw a ![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square) and ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=orange&style=flat-square) 
-
-# 🌵🔥 
+![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=orange&style=flat-square) 🌵🔥 
 
 ## work + play   
 - 🎨 exploring the intersections of **design, technology, and human systems**  
@@ -21,9 +19,9 @@ today we saw a ![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F
 - 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
 
 ## connect ~
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
-[![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Profile-blue?style=flat&logo=safari)](your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green?style=flat&logo=linkedin)](your-link-here)  
+[![CodePen](https://img.shields.io/badge/CodePen-Playground-green?style=flat&logo=codepen)](your-link-here)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Profile-green?style=flat&logo=safari)](your-link-here)  
 
 ---
 
