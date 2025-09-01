@@ -6,9 +6,18 @@
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
-*today, we had a high of* *and a low of* *-it's always a wild difference here in the desert.*
+---
 
-http://wttr.in/_0pq.png 
+![](https://wttr.in/gilbert?format=1)
+[](https://wttr.in/gilbert?format=1)
+![](https://wttr.in/gilbert?format=2)
+![](https://wttr.in/gilbert?format=3)
+![](https://wttr.in/gilbert?format=4)
+![](https://wttr.in/gilbert?format=5)
+
+
+
+
 
 *today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%t) *and a low of* ![](https://wttr.in/Gilbert.png?format=%t&u) *(-)it's always a wild difference here in the desert.*
 
