@@ -5,17 +5,17 @@ V1
 # hi! i'm ruby 🌸
 
 ### about  
-📍 i recently moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️  
-to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ 🎓 at $${\color{#A8324F} arizona \\ state \\ university}$$  
+📍 i recently moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️ to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ 🎓 at $${\color{#A8324F} arizona \\ state \\ university}$$  
 
-having always lived in tropical + humid climates, <br>  
-i probably should’ve listened when *everyone* <br>
-warned me about the desert heat 
+having always lived in tropical + humid climates, i probably should’ve listened when *everyone* tried to warn me about the desert heat..
 
-# 🌵🔥
+today, we had a high of  
+![High F](https://wttr.in/Gilbert?format=%h°F) / ![High C](https://wttr.in/Gilbert?format=%h°C) 😨  
+and a low of  
+![Low F](https://wttr.in/Gilbert?format=%l°F) / ![Low C](https://wttr.in/Gilbert?format=%l°C) 😳
 
-![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
-![Low](https://img.shields.io/badge/Low-83°F-orange?style=flat-square)
+🌵🔥
+
 
 ### work + play   
 - 🎨 exploring the intersections of **design, technology, and human systems**  
