@@ -8,12 +8,13 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 ---
 
-![Weather](https://wttr.in/Gilbert?format=+Today:+H%t°+L%t°)
+![](https://wttr.in/Gilbert.png?format=+Today:+H%t°+L%t°)
 
-![Gilbert weather](https://wttr.in/Gilbert?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
+![](https://wttr.in/Gilbert.png?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
 
-![Gilbert weather](https://wttr.in/Gilbert?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
-![Gilbert weather](https://wttr.in/Gilbert?format=🌡️+Today:+High+%M°C+/+Low+%m°C&m)
+![](https://wttr.in/Gilbert.png?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
+
+![](https://wttr.in/Gilbert.png?format=🌡️+Today:+High+%M°C+/+Low+%m°C&m)
 
 
 
