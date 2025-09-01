@@ -1,5 +1,6 @@
 # hi! i'm ruby. 
 
+## i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️ <br> for my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ <br> from $${\color{#ae3b1b} arizona \\ state \\ university}$$ 🎓
 
 ## i just moved to $${\color{#FFC627} gilbert}$$, $${\color{#FFC627} az}$$ 🏜️ <br> for my $${\color{orange} ms}$$ in $${\color{orange} user \\ experience}$$ <br> from $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
 
