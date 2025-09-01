@@ -16,7 +16,6 @@ warned me about the desert heat 🌵🔥
 ![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
 ![Low](https://img.shields.io/badge/Low-83°F-orange?style=flat-square)
 
-
 ### work + play   
 - 🎨 exploring the intersections of **design, technology, and human systems**  
 - 🧪 interested in **usability testing, accessibility, and edtech**  
@@ -26,7 +25,7 @@ warned me about the desert heat 🌵🔥
 ### connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
 [![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ruby-h.work-ff69b4?style=flat&logo=safari)](ruby-h.work)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ruby-h.work-ff69b4?style=flat&logo=safari)](your-link-here)  
 
 ---
 
