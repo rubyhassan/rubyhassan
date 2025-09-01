@@ -6,13 +6,14 @@
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
-high of ![](https://wttr.in/Gilbert.png?format=%h°F&u) F
-
-low of ![](https://wttr.in/Gilbert.png?format=%l°F&u) F
-
-high of ![](https://wttr.in/Gilbert.png?format=%h°C&m) C
-
-low of ![](https://wttr.in/Gilbert.png?format=%l°C&m) C
+High in Fahrenheit
+![](https://wttr.in/Gilbert?format=%x0&u)
+Low in Fahrenheit
+![](https://wttr.in/Gilbert?format=%n0&u)
+High in Celsius
+![](https://wttr.in/Gilbert?format=%x0&m)
+Low in Celsius
+![](https://wttr.in/Gilbert?format=%n0&m)
 
 
 ---
