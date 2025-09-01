@@ -6,8 +6,8 @@
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
-today we had a high of ![](https://wttr.in/Gilbert.png?format=%h0°F&u)
-and a low of ![](https://wttr.in/Gilbert.png?format=%l0°F&u)  
+today we had a high of ![](https://wttr.in/Gilbert.png?format=+%h0°F&u)
+and a low of ![](https://wttr.in/Gilbert.png?format=+%l0°F&u)  
 
 ---
 
