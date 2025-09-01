@@ -5,6 +5,14 @@
 
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
+
+*today, we had a high of* *and a low of* *(-)it's always a wild difference here in the desert.*
+
+*today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%c) *and a low of* ![](https://wttr.in/Gilbert.png?format=%c) *(-)it's always a wild difference here in the desert.*
+
+
+---
+
 **right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
 
 ---
