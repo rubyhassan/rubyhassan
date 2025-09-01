@@ -8,7 +8,7 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 *today, we had a high of* *and a low of* *(-)it's always a wild difference here in the desert.*
 
-*today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%c) *and a low of* ![](https://wttr.in/Gilbert.png?format=%c) *(-)it's always a wild difference here in the desert.*
+*today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%t) *and a low of* ![](https://wttr.in/Gilbert.png?format=%t&u) *(-)it's always a wild difference here in the desert.*
 
 
 ---
