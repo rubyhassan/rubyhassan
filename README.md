@@ -41,7 +41,7 @@ V2
 
 ## about..
 
-### i recently moved to 📍 $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$  🏜️ <br> to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ 👩‍💻 <br> at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
+### i recently moved to 📍 $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$  🏜️ <br> to pursue a $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ 👩‍💻 <br> at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
 
 having always lived in tropical + humid climates, <br> i probably should’ve listened when *everyone* <br> tried to warn me about the desert heat.. 
 
