@@ -1,6 +1,6 @@
-## hi! i'm ruby.
+# hi! i'm ruby.
 
-# i just moved to **sunny** gilbert 🏜️ for my **ms in ux** from *arizona state university* 🎓
+## i just moved to **sunny** gilbert 🏜️ for my **ms in ux** from *arizona state university* 🎓
 
 ![](https://wttr.in/Gilbert.png?m)
 
