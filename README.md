@@ -6,9 +6,13 @@
 
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
-high of ![](https://wttr.in/Gilbert.png?format=%h°F&u) today in Gilbert, AZ
+high of ![](https://wttr.in/Gilbert.png?format=%h°F&u) F
 
-high of ![](https://wttr.in/Gilbert.png?format=%h°C) today in Gilbert, AZ
+low of ![](https://wttr.in/Gilbert.png?format=%l°F&u) F
+
+high of ![](https://wttr.in/Gilbert.png?format=%h°C&m) C
+
+low of ![](https://wttr.in/Gilbert.png?format=%l°C&m) C
 
 
 ---
