@@ -5,7 +5,7 @@
 having always lived in tropical, humid settings, i really should have paid more attention when *everyone* warned me about the weather.. <br>
 **right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
 
-![Weather](https://wttr.in/Gilbert?format=1?)
+![](https://wttr.in/Gilbert?format=1?)
 
 ![](https://wttr.in/Gilbert?format=%c+%t+%f)
 
