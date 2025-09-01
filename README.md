@@ -25,14 +25,6 @@ having always lived in tropical + humid climates, i probably should’ve listene
 
 ---
 
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
-
-
-
-
----
----
----
 
 
 V2
@@ -60,15 +52,13 @@ having always lived in tropical + humid climates, <br> i probably should’ve li
 🔗 [![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat)](your-link-here)  
 🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat)](your-link-here)  
 
+---
 
-
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
 
 
 ---
 ---
----
-
-
 
 
 links to LinkedIn, CodePen, 
