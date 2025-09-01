@@ -9,10 +9,14 @@ V1
 
 having always lived in tropical + humid climates, i probably should’ve listened when *everyone* tried to warn me about the desert heat..
 
-today, we had a high of  
-![High F](https://wttr.in/Gilbert?format=%h°F) / ![High C](https://wttr.in/Gilbert?format=%h°C) 😨  
-and a low of  
-![Low F](https://wttr.in/Gilbert?format=%l°F) / ![Low C](https://wttr.in/Gilbert?format=%l°C) 😳
+today, we had a high of ![](https://wttr.in/Gilbert?format=%h°F) 😨  
+and a low of ![](https://wttr.in/Gilbert?format=%l°F) 😳
+
+🌵🔥
+
+
+today, we had a high of ![](https://wttr.in/Gilbert.png?format=%h°F) 😨  
+and a low of ![](https://wttr.in/Gilbert.png?format=%l°F) 😳
 
 🌵🔥
 
