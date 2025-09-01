@@ -12,15 +12,13 @@ having always lived in tropical + humid climates, i probably should’ve listene
 
 ![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=blue&style=flat-square)
 
-
-
-### work + play   
+## work + play   
 - 🎨 exploring the intersections of **design, technology, and human systems**  
 - 🧪 interested in **usability testing, accessibility, and edtech**  
 - 💻 skilled in: Figma, Adobe CC, GitHub, UX writing, prototyping  
 - 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
 
-### connect! 
+## connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
 [![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ruby-h.work-ff69b4?style=flat&logo=safari)](your-link-here)  
