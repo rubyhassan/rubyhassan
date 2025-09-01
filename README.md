@@ -7,6 +7,16 @@
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
 
+
+*today, we had a high of* ![High F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=blue) 🥵 <br> 
+*and a low of* ![Low F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=blue) 🥶 <br>
+
+*that's a high of* ![High C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempC&label=&suffix=%C2%B0C&color=blue) <br> 
+*and a low of* ![Low C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempC&label=&suffix=%C2%B0C&color=blue) <br>
+
+
+---
+
 *today, we had a high of* ![Today High °F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=Today%20High&suffix=%C2%B0F) 🥵 <br> 
 *and a low of* ![Today Low °F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Today%20Low&suffix=%C2%B0F) 🥶 <br>
 
