@@ -7,22 +7,18 @@
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
 High in Fahrenheit
-![](https://wttr.in/Gilbert?format=%x0&u)
+![](https://wttr.in/Gilbert.png?format=%x0&u)
 Low in Fahrenheit
-![](https://wttr.in/Gilbert?format=%n0&u)
+![](https://wttr.in/Gilbert.png?format=%n0&u)
 High in Celsius
-![](https://wttr.in/Gilbert?format=%x0&m)
+![](https://wttr.in/Gilbert.png?format=%x0&m)
 Low in Celsius
-![](https://wttr.in/Gilbert?format=%n0&m)
+![](https://wttr.in/Gilbert.png?format=%n0&m)
 
 
 ---
 
-*today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%h°F&u) 🥵 <br> *and a low of* ![](https://wttr.in/Gilbert.png?format=%l°F&u) 🥶 <br>
-
----
-
-**right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
+*today, we had a high of*  🥵 <br> *and a low of*  🥶 <br>
 
 ---
 
