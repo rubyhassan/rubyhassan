@@ -1,4 +1,9 @@
-## Hi there 👋
+## hi :) i'm ruby! 
+
+
+
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
+
 
 <!--
 **rubyhassan/rubyhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
