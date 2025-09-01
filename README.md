@@ -2,12 +2,8 @@
 
 ## i just moved to gilbert, az 🏜️ <br> for my $${\\color{yellow}{ms}}$$ in $${\\color{yellow}{user \\ experience}}$$ <br> from *arizona state university* 🎓
 
-![](https://wttr.in/Gilbert.png?u&1n&lang=en)
-
-
----
-
-**weather report (gilbert):** 
+having always lived in tropical, humid settings, i really should have paid more attention when *everyone* warned me about the weather..
+**right now** i'm dealing with
 ![C](https://wttr.in/Gilbert.png?format=%c+%t) / ![F](https://wttr.in/Gilbert.png?format=%t&u)
 
 ---
