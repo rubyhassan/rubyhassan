@@ -23,8 +23,7 @@ having always lived in tropical + humid climates, i probably should’ve listene
 
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat)](your-link-here)  
 🔗 [![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat)](your-link-here)  
-🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat)]()  
-🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat)]([your-link-here](https://www.ruby-h.work/))  
+🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat)](your-link-here)  
 
 ---
 
