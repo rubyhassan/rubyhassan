@@ -7,11 +7,20 @@
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
 
-High of [![](https://wttr.in/Gilbert?format=%x&u)](https://wttr.in/Gilbert) F
-Low of [![](https://wttr.in/Gilbert?format=%n&u)](https://wttr.in/Gilbert) F
+![Today High °F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=Today%20High&suffix=%C2%B0F)
+![Today Low °F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Today%20Low&suffix=%C2%B0F)
 
-High of [![](https://wttr.in/Gilbert.png?format=%x&u)](https://wttr.in/Gilbert) F
-Low of [![](https://wttr.in/Gilbert.png?format=%n&u)](https://wttr.in/Gilbert) F
+![Today High °C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempC&label=Today%20High&suffix=%C2%B0C)
+![Today Low °C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempC&label=Today%20Low&suffix=%C2%B0C)
+
+
+![Now °F](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.temp_F&label=Now&suffix=%C2%B0F)
+![Now °C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.temp_C&label=Now&suffix=%C2%B0C)
+
+
+![Now °F](https://wttr.in/Gilbert.png?format=%25t&u)
+![Now °C](https://wttr.in/Gilbert.png?format=%25t&m)
+
 
 
 ---
