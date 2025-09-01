@@ -18,6 +18,7 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 ![Now °C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.temp_C&label=Now&suffix=%C2%B0C)
 
 
+
 ![Now °F](https://wttr.in/Gilbert.png?format=%25t&u)
 ![Now °C](https://wttr.in/Gilbert.png?format=%25t&m)
 
