@@ -10,8 +10,8 @@ V1
 👩‍🏫 to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$  
 🎓 at $${\color{#A8324F} arizona \\ state \\ university}$$  
 
-having always lived in tropical + humid climates,  
-i probably should’ve listened when *everyone* 
+having always lived in tropical + humid climates, <br>  
+i probably should’ve listened when *everyone* <br>
 warned me about the desert heat 🌵🔥  
 
 ![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
