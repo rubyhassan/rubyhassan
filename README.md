@@ -1,11 +1,5 @@
 
 
-![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
-![Low](https://img.shields.io/badge/Low-83°F-blue?style=flat-square)
-
-
-
-
 V1
 
 # hi! i'm ruby. 
@@ -89,12 +83,9 @@ having always lived in tropical + humid climates,
 i probably should’ve listened when *everyone* 
 warned me about the desert heat 🌵🔥  
 
-<span>
-  <img alt="High F" style="vertical-align:-2px"
-       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%2C%20we%20had%20a%20high%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
-  <img alt="Low F" style="vertical-align:-2px"
-       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
-</span>  
+![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
+![Low](https://img.shields.io/badge/Low-83°F-orange?style=flat-square)
+
 
 ### work + play   
 - 🎨 exploring the intersections of **design, technology, and human systems**  
