@@ -7,12 +7,9 @@
 
 ---
 
-🎨 I’m a student in the **MS in UX program** at *Arizona State University* exploring the intersections of **design, tech, and human systems**.  
-💡 Passionate about **user experience, accessibility, and educational technology**.  
-✨ Outside of class, I love experimenting with **design projects, coding, and creative side quests**.  
 
-🌱 Currently learning: GitHub workflows, UI prototyping, and all things UX research.  
-📌 Goal: Build meaningful, human-centered tools that make tech more intuitive and accessible.  
+
+
 
 ---
 
