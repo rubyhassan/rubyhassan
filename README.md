@@ -12,6 +12,13 @@ having always lived in tropical + humid climates, i probably should’ve listene
 
 we had a lovely ![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square) and ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=orange&style=flat-square) today 🌵🔥 
 
+
+having always lived in tropical + humid climates, i probably should’ve listened when *everyone* warned me about the desert heat... turns out the temps really do swing like crazy:  
+
+![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square)  
+![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=orange&style=flat-square) 🌵🔥  
+
+
 ## work + play   
 - 🎨 exploring the intersections of **design, technology, and human systems**  
 - 🧪 interested in **usability testing, accessibility, and edtech**  
@@ -19,9 +26,9 @@ we had a lovely ![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2
 - 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
 
 ## connect ~
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green?style=flat&logo=linkedin)](your-link-here)  
-[![CodePen](https://img.shields.io/badge/CodePen-Playground-green?style=flat&logo=codepen)](your-link-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Profile-green?style=flat&logo=safari)](your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat&logo=linkedin)](your-link-here)  
+[![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat&logo=codepen)](your-link-here)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat&logo=safari)](your-link-here)  
 
 ---
 
