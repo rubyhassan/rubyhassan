@@ -41,3 +41,43 @@ Images are appropriate.
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
 
+
+
+---
+
+---
+
+# hi! i'm ruby 🌸
+
+## about me  
+i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️  
+to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$  
+at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓  
+
+having always lived in tropical + humid climates,  
+i probably should’ve listened when *everyone* warned me about the desert heat 🌵🔥  
+
+## today’s weather in gilbert  
+<span>
+  <img alt="High F" style="vertical-align:-2px"
+       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%2C%20we%20had%20a%20high%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
+  <img alt="Low F" style="vertical-align:-2px"
+       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
+</span>  
+
+## what i do  
+- 🎨 exploring the intersections of **design, technology, and human systems**  
+- 🧪 interested in **usability testing, accessibility, and edtech**  
+- 💻 skilled in: Figma, Adobe CC, GitHub, UX writing, prototyping  
+- 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
+
+## connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
+[![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-rubyhassan.design-ff69b4?style=flat&logo=safari)](your-link-here)  
+
+---
+
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
+
+
