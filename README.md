@@ -97,7 +97,7 @@ i probably should’ve listened when *everyone* warned me about the desert heat 
 ## connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
 [![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-rubyhassan.design-ff69b4?style=flat&logo=safari)](your-link-here)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ruby-h.work-ff69b4?style=flat&logo=safari)](ruby-h.work)  
 
 ---
 
