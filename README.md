@@ -21,6 +21,7 @@ having always lived in tropical + humid climates, i probably should’ve listene
 
 ## connect
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&cache_bust=123)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat&logo=linkedin)](your-link-here)  
 🔗 [![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat&logo=codepen)](your-link-here)  
