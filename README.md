@@ -21,11 +21,10 @@ having always lived in tropical + humid climates, i probably should’ve listene
 
 ## connect
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&cache_bust=123)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat&logo=linkedin)](your-link-here)  
-🔗 [![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat&logo=codepen)](your-link-here)  
-🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat&logo=safari)](your-link-here)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkgreen?style=flat)](your-link-here)  
+🔗 [![CodePen](https://img.shields.io/badge/CodePen-Playground-darkgreen?style=flat)](your-link-here)  
+🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat)]()  
+🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-Profile-darkgreen?style=flat)]([your-link-here](https://www.ruby-h.work/))  
 
 ---
 
