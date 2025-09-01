@@ -12,6 +12,9 @@ today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=
 
 today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="High F"> 😨 <br> and a low of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="Low F"> 😳 <br>
 
+today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="32" alt="High F"> 😨 <br> and a low of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="32" alt="Low F"> 😳 <br>
+
+
 
 ---
 
