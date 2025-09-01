@@ -10,8 +10,6 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 *today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%h°F&u) 🥵 <br> *and a low of* ![](https://wttr.in/Gilbert.png?format=%l°F&u) 🥶 <br>
 
-*today, we had a high of* ![](https://wttr.in/Gilbert.png?format=%h&u) 🥵 <br> *and a low of* ![](https://wttr.in/Gilbert.png?format=%l&u) 🥶 <br>
-
 ---
 
 **right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
