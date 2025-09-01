@@ -7,14 +7,11 @@
 having always lived in tropical/humid settings, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
 
-![](https://wttr.in/Gilbert.png?format=%h&u) 
+High of [![](https://wttr.in/Gilbert?format=%x&u)](https://wttr.in/Gilbert) F
+Low of [![](https://wttr.in/Gilbert?format=%n&u)](https://wttr.in/Gilbert) F
 
-![](https://wttr.in/Gilbert.png?format=%l&u) 
-
-![](https://wttr.in/Gilbert.png?format=%h&m) 
-
-![](https://wttr.in/Gilbert.png?format=%l&m) 
-
+High of [![](https://wttr.in/Gilbert.png?format=%x&u)](https://wttr.in/Gilbert) F
+Low of [![](https://wttr.in/Gilbert.png?format=%n&u)](https://wttr.in/Gilbert) F
 
 
 ---
