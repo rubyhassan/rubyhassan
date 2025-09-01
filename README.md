@@ -8,7 +8,7 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 ---
 
-$ curl wttr.in
+![Weather in Chicago](https://wttr.in/Chicago.png)
 
 
 
