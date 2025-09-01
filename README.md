@@ -8,12 +8,6 @@
 ---
 
 
-![](https://wttr.in/Gilbert.png?m)
-
-
----
-
-
 
 
 
