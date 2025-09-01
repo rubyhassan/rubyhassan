@@ -8,25 +8,7 @@ having always lived in tropical/humid settings, <br> i really should have paid c
 
 ---
 
-![](https://wttr.in/Gilbert.png?format=+High+h°F)
-
-![](https://wttr.in/Gilbert.png?format=+Low+%l°F&u)
-
-![](https://wttr.in/Gilbert.png?format=+High+h°F)
-
-![](https://wttr.in/Gilbert.png?format=+Low+%l°F&m)
-
-
----
-
-![](https://wttr.in/Gilbert.png?format=+Today:+High%+t°+Low%-t°)
-
-![](https://wttr.in/Gilbert.png?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
-
-![](https://wttr.in/Gilbert.png?format=🌡️+Today:+High+%M°F+/+Low+%m°F)
-
-![](https://wttr.in/Gilbert.png?format=🌡️+Today:+High+%M°C+/+Low+%m°C&m)
-
+$ curl wttr.in
 
 
 
