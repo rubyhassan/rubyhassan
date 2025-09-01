@@ -8,15 +8,9 @@ V1
 
 ### i recently moved to 📍 $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$  🏜️ to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ 👩‍💻 at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
 
-having always lived in tropical + humid climates, i probably should’ve listened when *everyone* tried to warn me about the desert heat..
+having always lived in tropical + humid climates, i probably should’ve listened when *everyone* tried to warn me about the desert heat.. 
 
-![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%20we%20had%20a%20high%20of%20&suffix=%C2%B0F&color=red&labelColor=black&style=flat-square) 
-![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=and%20a%20low%20of%20&suffix=%C2%B0F&color=orange&labelColor=black&style=flat-square) 🌵🔥
-
-
-![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=%20today%20we%20had%20a%20high%20of%20&suffix=%C2%B0F&label&Color&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of%20&suffix=%C2%B0F&label&Color&style=flat-square) 🌵🔥 
-
-![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=%20today%20we%20had%20a%20high%20of%20&suffix=%C2%B0F&labelColor=black&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of%20&suffix=%C2%B0F&labelColor=black&style=flat-square) 🌵🔥 
+![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=%20today%20we%20had%20a%20high%20of%20&suffix=%C2%B0F&color=red&labelColor=black&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of%20&suffix=%C2%B0F&color=orange&labelColor=black&style=flat-square) 🌵🔥 
 
 ![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=%20today%20we%20had%20a%20high%20of%20&suffix=%C2%B0F&color=red&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of%20&suffix=%C2%B0F&color=orange&style=flat-square) 🌵🔥 
 
