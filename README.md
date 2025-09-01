@@ -2,41 +2,47 @@
 
 V1
 
-# hi! i'm ruby. 
+# hi! i'm ruby 🌸
 
-## i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️ <br> to get my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ <br> from $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
+### about  
+i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️  
+to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$  
+at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓  
 
-having always lived in tropical/humid climates, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
+having always lived in tropical + humid climates,  
+i probably should’ve listened when *everyone* 
+warned me about the desert heat 🌵🔥  
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%2C%20we%20had%20a%20high%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="High F"> 😨 <br> 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=and%2C%20a%20low%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="Low F"> 😳 <br>
+![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
+![Low](https://img.shields.io/badge/Low-83°F-orange?style=flat-square)
 
-<span>
-  <img alt="High F" style="vertical-align:-2px"
-       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%2C%20we%20had%20a%20high%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
-  <img alt="Low F" style="vertical-align:-2px"
-       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
-</span>
 
-today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="High F"> 😨 <br> and a low of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="Low F"> 😳 <br>
+### work + play   
+- 🎨 exploring the intersections of **design, technology, and human systems**  
+- 🧪 interested in **usability testing, accessibility, and edtech**  
+- 💻 skilled in: Figma, Adobe CC, GitHub, UX writing, prototyping  
+- 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
 
----
-
-links to LinkedIn, CodePen, 
-and an intro/bio about the student
-their education/goals
-hobbies, 
-and technical skills. 
-
-Links function and images/widget display properly. 
-Images are appropriate.
-
+### connect! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
+[![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ruby-h.work-ff69b4?style=flat&logo=safari)](ruby-h.work)  
 
 ---
+
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
+
+
+
+
+---
 ---
 ---
 
-V2 
+
+
+
+V2
 
 # hi! i'm ruby. 
 
@@ -72,34 +78,33 @@ Images are appropriate.
 
 V3
 
-# hi! i'm ruby 🌸
+# hi! i'm ruby. 
 
-### about  
-i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️  
-to pursue my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$  
-at $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓  
+## i just moved to $${\color{#ffe158} gilbert}$$, $${\color{#ffe158} az}$$ 🏜️ <br> to get my $${\color{#ff9711} ms}$$ in $${\color{#ff9711} user \\ experience}$$ <br> from $${\color{#A8324F} arizona \\ state \\ university}$$ 🎓
 
-having always lived in tropical + humid climates,  
-i probably should’ve listened when *everyone* 
-warned me about the desert heat 🌵🔥  
+having always lived in tropical/humid climates, <br> i really should have paid closer attention when <br> *everyone* tried to warn me about the weather.. <br> <br> 
 
-![High](https://img.shields.io/badge/High-110°F-red?style=flat-square)
-![Low](https://img.shields.io/badge/Low-83°F-orange?style=flat-square)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%2C%20we%20had%20a%20high%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="High F"> 😨 <br> 
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=and%2C%20a%20low%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="Low F"> 😳 <br>
 
+<span>
+  <img alt="High F" style="vertical-align:-2px"
+       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=today%2C%20we%20had%20a%20high%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
+  <img alt="Low F" style="vertical-align:-2px"
+       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=%20and%20a%20low%20of&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat-square&cacheSeconds=600" />
+</span>
 
-### work + play   
-- 🎨 exploring the intersections of **design, technology, and human systems**  
-- 🧪 interested in **usability testing, accessibility, and edtech**  
-- 💻 skilled in: Figma, Adobe CC, GitHub, UX writing, prototyping  
-- 🌱 hobbies: cooking experiments, themed design projects, and balcony gardening  
-
-### connect! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-link-here)  
-[![CodePen](https://img.shields.io/badge/CodePen-Playground-black?style=flat&logo=codepen)](your-link-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ruby-h.work-ff69b4?style=flat&logo=safari)](ruby-h.work)  
+today, we had a high of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="High F"> 😨 <br> and a low of <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=&suffix=%C2%B0F&color=000000&labelColor=00000000&style=flat&v=10" width="50" alt="Low F"> 😳 <br>
 
 ---
 
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
+links to LinkedIn, CodePen, 
+and an intro/bio about the student
+their education/goals
+hobbies, 
+and technical skills. 
+
+Links function and images/widget display properly. 
+Images are appropriate.
 
 
