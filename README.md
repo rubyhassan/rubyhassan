@@ -10,21 +10,7 @@ V1
 
 having always lived in tropical + humid climates, i probably should’ve listened when *everyone* tried to warn me about the desert heat..
 
-today, we had a high of ![](https://wttr.in/Gilbert?format=%h°F) 😨  
-and a low of ![](https://wttr.in/Gilbert?format=%l°F) 😳
-
-🌵🔥
-
-
-today, we had a high of ![](https://wttr.in/Gilbert.png?format=%h°F) 😨  
-and a low of ![](https://wttr.in/Gilbert.png?format=%l°F) 😳
-
-🌵🔥
-
-
-![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square)
-
-![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=blue&style=flat-square)
+![High](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.maxtempF&label=High&suffix=%C2%B0F&color=red&style=flat-square) ![Low](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FGilbert%3Fformat%3Dj1&query=%24.weather%5B0%5D.mintempF&label=Low&suffix=%C2%B0F&color=blue&style=flat-square)
 
 
 
