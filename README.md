@@ -3,7 +3,7 @@
 ## i just moved to gilbert, az 🏜️ <br> to get my $${\\color{orange}{ms}}$$ in $${\\color{orange}{user \\ experience}}$$ <br> from $${\\color{maroon}{arizona \\ state \\ university}}$$ 🎓 <br>
 
 
-## i just moved to gilbert, az 🏜️ <br> to get my $${\\color{orange}{ms}}$$ in $${\\color{orange}{user \\ experience}}$$ <br> from $${\\color{#<8C1D40>}{arizona \\ state \\ university}}$$ 🎓 <br>
+## i just moved to gilbert, az 🏜️ <br> to get my $${\\color{orange}{ms}}$$ in $${\\color{orange}{user \\ experience}}$$ <br> from $${\\color{#<8C1D40>}arizona \\ state \\ university}$$ 🎓 <br>
 
 
 
@@ -14,10 +14,10 @@ having always lived in tropical, humid settings, <br> i really should have paid 
 
 ---
 
-**Weather in Gilbert, AZ**
+*today, i got hit with**
 
-![Fahrenheit](https://wttr.in/Gilbert.png?format=H:+%H°F,+L:+%L°F)  
-![Celsius](https://wttr.in/Gilbert.png?format=H:+%HC°C,+L:+%LC°C)
+![](https://wttr.in/Gilbert.png?format=H:+%H°F,+L:+%L°F)  
+![](https://wttr.in/Gilbert.png?format=H:+%HC°C,+L:+%LC°C)
 
 ---
 
