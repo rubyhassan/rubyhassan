@@ -6,6 +6,10 @@ having always lived in tropical, humid settings, i really should have paid close
 **right now** it's <space> ![](https://wttr.in/Gilbert.png?format=%c) <space> ![](https://wttr.in/Gilbert.png?format=%t) / ![](https://wttr.in/Gilbert.png?format=%t&u) here 🫣
 
 
+```text
+curl wttr.in/Gilbert?format=3
+
+
 ---
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=rubyhassan)
